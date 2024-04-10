@@ -34,6 +34,10 @@ export default defineConfig({
         link: "/unstable/应用数据目录规范",
       },
       {
+        text: "系统目录规范",
+        link: "/unstable/系统目录规范",
+      },
+      {
         text: "桌面应用打包规范",
         link: "/unstable/桌面应用打包规范",
       },
